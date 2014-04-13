@@ -1,0 +1,10 @@
+{"launch_path":"/index.html",
+"icons":{
+"60":"/img/cna-60.png",
+"128":"/img/cna-128.png"
+},
+"description": "Constitución Nacional de la República Argentina - Texto - Reformas - Estructura",
+"installs_allowed_from":["*"],
+"version":"0.0.1",
+"name":"Constitución Nacional Argentina",
+"pkgName":"com.sencha.helloworld"}
